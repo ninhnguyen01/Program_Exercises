@@ -1,4 +1,4 @@
-# This Program displays the corresponding day of the week.
+# This program displays the corresponding day of the week.
 
 number = int(input('Enter a number between 1 and 7: '))
 
