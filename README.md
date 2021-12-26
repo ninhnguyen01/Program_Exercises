@@ -1,2 +1,2 @@
-# Program_Exercise
+# Program_Exercises
 Python
